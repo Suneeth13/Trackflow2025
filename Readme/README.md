@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**: [https://www.tinyurl.com/trackflow2025]
+**URL**: [https://preview--trackflow-operations-hub.lovable.app/dashboard]
 
 ## What technologies are used for this project?
 
