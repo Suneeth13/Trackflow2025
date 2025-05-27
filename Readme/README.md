@@ -3,7 +3,6 @@
 ## Project info
 
 **URL**: [https://preview--trackflow-operations-hub.lovable.app/dashboard]
->>>>>>> 42562c2d08715e8a488dd44a73c8e3e693dbfdf7
 
 ## What technologies are used for this project?
 
